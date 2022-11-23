@@ -1,0 +1,14 @@
+{
+  "**Anime info**" : "Sends all available information about a given anime\n`/anime <name>`",
+  "**Anime character image**" : "Sends a random image of the given anime character\n`/image <name>`",
+  "**Anime news**" : "Sends the latest news about animes\n`/animenews`",
+  "**Waifu**" : "Sends random waifu images\n`/waifu`",
+  "**Shinobu**" : "Sends random shinobu images\n`/shinobu`",
+  "**Megumin**" : "Sends random megumin images\n`/megumin`",
+  "**Random images**" : "Sends random anime girl images\n`/random`",
+  "**Pat**" : "Pats the given person\n`/pat <person>`",
+  "**Kiss**" : "Kisses the given person\n`/kiss <person>`",
+  "**Hug**" : "Hugs the given person\n`/hug <person>`",
+  "**Kill**" : "Kills the given person\n`/kill <person>`",
+  "**Dance**" : "Sends random dance gifs\n`/dance`"
+}

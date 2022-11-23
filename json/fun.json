@@ -1,0 +1,10 @@
+{
+  "**Cat**" : "Sends random cat images\n`/cat`",
+  "**Dog**" : "Sends random dog images\n`/dog`",
+  "**Polls**" : "Creates a pol about two given objects\n`/poll <object1> <object2>`",
+  "**Jokes**" : "Sends random chuck norris jokes\n`/joke`",
+  "**Gay rate**" : "Rates a user randomly on how gay they are (command's author by default)\n`/howgay <person(optional)>`",
+  "**PP size machine**" : "Sends a random guessing of how large the pp will be (command's author by default)\n`/pp <person(optional)>`",
+  "**Coin Flip**" : "Flips the coin\n`/coinflip <head / tail>`",
+  "**Ship**" : "Ships the user with the given person\n`/ship <person>`"
+}

@@ -1,0 +1,7 @@
+{
+ "**Server info**" : "Displays details about the server\n`/serverinfo`",
+  "**Member Count**": "Displays the total member count of the server\n`/membercount`",
+ "**Reminder**" : "Reminds you about a given object in the given time\n`/remindme <object> <time>`",
+ "**Roll the dice**" : "Rolls a random number at a given length(100 by default)\n`/roll <number(optional)>`",
+ "**User info**" : "Displays the information about the author of the command\n`/useinfo`"
+}

@@ -1,0 +1,14 @@
+{
+  "**Play Music**": "Plays the song of your choice\n`;play <song>`",
+  "**Pause Music**": "Pauses the currently playing song\n`;pause`",
+  "**Resume Music**": "Resumes the currently playing song\n`;resume`",
+  "**Join vc**": "The bot joins your current vc\n`;join`",
+  "**Leave vc**": "The bot clears the queue and leaves your vc\n`;leave`",
+  "**Loop song**": "Loops the current song\n`;loop`",
+  "**Queue**": "Shows all the music queued to the bot\n`;queue`",
+  "**Remove song**": "Removes the song from queue at a specified index\n`;remove <index>`",
+  "**Volume**": "Changes the volume of the song at a specified value\n`;volume <number>`",
+  "**Now**": "Shows the currently playing song\n`;now`",
+  "**Skip Song**": "Skips the current song\n`;skip`",
+  "**Shuffle queue**": "Shuffles the queue\n`;shuffle`"
+}
