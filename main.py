@@ -127,4 +127,4 @@ async def reloadcog(inter:disnake.CommandInteraction, cog):
 for filename in os.listdir("./cogs"):
     if filename.endswith(".py"):
         bot.load_extension(f"cogs.{filename[:-3]}")
-bot.run("OTQxODk0NDI1MjM0MjU1OTM0.Ygclig.zkVRILxNyaVEafPdNSP2qcJtMCI")
+bot.run("")
